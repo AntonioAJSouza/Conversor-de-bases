@@ -1,2 +1,2 @@
 # Conversor-de-bases
-Trabalho de faculdade, um conversor de bases universal escrito em C++
+Trabalho de faculdade, um conversor de bases universal simples escrito em C++
